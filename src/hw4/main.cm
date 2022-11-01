@@ -31,7 +31,22 @@ void mother() {
 }
 
 void father() {
-
+    //hook up horses
+    print("         Father is hooking up the horses")
+    print("         Father is ready to give Hayrides")
+    //give hayrides
+    
+    
+    
+    //everyone got hayrides
+    //wait for everyone to be seated
+    //carve turkey
+    print("         Father is carving the turkey")
+    //eat
+    //excuse everyone and fall asleep
+    print("         Father is done eating and excuses everyone from the table")
+    
+    print("         Father is asleep and watching football")
 }
 
 void child(int id) {
